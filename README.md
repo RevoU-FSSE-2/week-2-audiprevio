@@ -47,6 +47,7 @@ To get a local copy up and running, follow these simple steps:
 ### Known Bugs
 1. Responsive Navbar tend to disappear if the hamburger button is not clicked at the top-most section of the hero (Still finding ways to fix this...)
 2. Navbar items tend to be on the right instead of the left
+3. Inter font might not be as clean on some mobile app as it is on the web
 
 ## SECTION 2: DISCLAIMER
 As of this moment, code clean-up is under way. Expect cleaner code for iteration 2.

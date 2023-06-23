@@ -4,7 +4,7 @@ Welcome to the official repository of ZERONE, a net-zero ride-hailing applicatio
 
 The project is built using HTML, CSS, and JavaScript, with a keen focus on responsive design to ensure an optimized experience across various devices.
 
-## Project Structure
+## SECTION 1: PROJECT STRUCTURE
 
 The website consists of several key components detailed below:
 
@@ -44,6 +44,15 @@ To get a local copy up and running, follow these simple steps:
 
 - Any modern web browser (e.g., Chrome, Firefox, Safari, or Edge).
 
+### Known Bugs
+1. Responsive Navbar tend to disappear if the hamburger button is not clicked at the top-most section of the hero (Still finding ways to fix this...)
+2. Navbar items tend to be on the right instead of the left
+
+## SECTION 2: DISCLAIMER
+As of this moment, code clean-up is under way. Expect cleaner code for iteration 2.
+
+## SECTION 3: INSTALLATION
+
 ### Installation
 
 1. Clone the repository
@@ -51,6 +60,8 @@ git clone https://github.com/<your-github-username>/zerone-website.git
 
 2. Navigate to the repository folder on your computer.
 3. Open `index.html` in your web browser.
+
+## SECTION 4: USAGE, CREDITS
 
 ## Usage
 
@@ -70,8 +81,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 If you have any questions about the project, please feel free to reach out:
 
-- Your Name - yourname@example.com
-- Project Link: https://github.com/yourusername/zerone-website
+- Audi Previo - Audi.previo98@gmail.com
+- Project Link: (https://github.com/RevoU-FSSE-2/week-2-audiprevio)
 
 ## License
 
@@ -81,6 +92,3 @@ The ZERONE website is released under the MIT License (https://opensource.org/lic
 
 - OpenAI: For providing the GPT-4 model, facilitating copywriting and some code explanation
 - Tesla: For the brand image and the inspiration behind the all-electric transport
-
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6H2sAzcR)
